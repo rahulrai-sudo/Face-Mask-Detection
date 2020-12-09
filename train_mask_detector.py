@@ -26,7 +26,7 @@ INIT_LR = 1e-4
 EPOCHS = 20
 BS = 32
 
-DIRECTORY = r"C:\Users\rockj\Desktop\Face-Mask-Detection-master\Face-Mask-Detection-master\dataset"
+DIRECTORY = r"/home/runner/work/Face-Mask-Detection/Face-Mask-Detection/Dataset"
 CATEGORIES = ["with_mask", "without_mask"]
 
 # grab the list of images in our dataset directory, then initialize
